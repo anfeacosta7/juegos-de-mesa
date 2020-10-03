@@ -9,4 +9,5 @@ using System.Web;
 public class Prueba
 {
     private int alan;
+    private int ranicaro;
 }
