@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "juegos de mesa", "juegos de mesa\", "{525239B2-931C-41EA-ACFB-32FB5CA626AF}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_57479"
+		Debug.AspNetCompiler.PhysicalPath = "juegos de mesa\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_57479\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_57479"
+		Release.AspNetCompiler.PhysicalPath = "juegos de mesa\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_57479\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "57479"
+		SlnRelativePath = "juegos de mesa\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{525239B2-931C-41EA-ACFB-32FB5CA626AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{525239B2-931C-41EA-ACFB-32FB5CA626AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D390D755-C8A8-4071-8523-0C5D94E886BF}
+	EndGlobalSection
+EndGlobal
