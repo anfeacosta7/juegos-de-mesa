@@ -95,5 +95,13 @@ public class DAOjuego
         }
     }
 
-
+    public void prueba_clase(Juegos juego)
+    {
+        using (var db = new Mapeo())
+        {
+            Juegos juegos = db.juegos.Where(x => x.Id_juego == juego.Id_juego).First();
+            db.juegos.Remove(juegos);
+            db.SaveChanges();
+        }
+    }
 }
